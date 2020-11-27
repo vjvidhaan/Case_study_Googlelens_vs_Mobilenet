@@ -1,0 +1,10 @@
+#hi{
+    border-radius: 10px;
+    background-color: blue;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size: 60%;
+ padding-bottom: 10px;
+}
+ body{
+     background-color: cornflowerblue;
+ }
